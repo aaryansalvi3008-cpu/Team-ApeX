@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      7
+Resource file count                        4
+Object count                            2270
+Serialized Files                     514.6 kb	   8.0%
+Serialized Files Headers              75.2 kb	   1.2%
+Resource data (Texture,Audio...)       5.8 mb	  92.0%
+Total build size                       6.3 mb
+
+Largest Types:
+     5.3 mb	  84.1% Texture2D
+   512.2 kb	   7.9% Cubemap
+   184.0 kb	   2.9% Shader
+
+Largest Assets:
+   697.9 kb	  10.8% Resources/unity_builtin_extra
+   341.5 kb	   5.3% Assets/_Project/Textures/T_Lab_Metal_Panel_Albedo.png
+   341.5 kb	   5.3% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Albedo.png
+   341.5 kb	   5.3% Assets/_Project/Textures/T_Lab_Concrete_Albedo.png
+   341.5 kb	   5.3% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Normal.png
+   341.5 kb	   5.3% Assets/_Project/Textures/T_Lab_Metal_Panel_Normal.png
+   170.9 kb	   2.7% Assets/_Project/Textures/T_Asylum_Door_Albedo.png
+   170.9 kb	   2.7% Assets/_Project/Textures/T_Lab_Monitor_Screen.png
+   170.8 kb	   2.7% Assets/_Project/Textures/T_Lab_Autopsy_Steel_Albedo.png
+   140.7 kb	   2.2% Assets/_Project/Scenes/LaboratoryLevel2.unity
+    85.5 kb	   1.3% Assets/_Project/Textures/T_Monster_Gown_Albedo.png
+    85.5 kb	   1.3% Assets/_Project/Textures/T_Monster_Bone_Albedo.png
+    85.5 kb	   1.3% Assets/_Project/Textures/T_Monster_Skin_Albedo.png
+    85.5 kb	   1.3% Assets/_Project/Textures/T_Lab_Hazard_Stripes.png
+    85.5 kb	   1.3% Assets/_Project/Textures/T_Lab_Blood_Decal.png
+-------------------------------------------------------------------------------

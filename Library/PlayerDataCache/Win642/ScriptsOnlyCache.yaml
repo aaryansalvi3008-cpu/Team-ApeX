@@ -1,0 +1,432 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - EscapeTheLab.AI.MonsterController
+    - EscapeTheLab.AI.SubjectProceduralAnimator
+    - EscapeTheLab.Audio.HorrorAudioManager
+    - EscapeTheLab.Core.ExitTrigger
+    - EscapeTheLab.Core.LevelProgressionGuard
+    - EscapeTheLab.Environment.ElectricalSparkHazard
+    - EscapeTheLab.Environment.FloorHazard
+    - EscapeTheLab.Environment.LightFlicker
+    - EscapeTheLab.Environment.SeatedApparition
+    - EscapeTheLab.Interaction.CircuitBreakerConsole
+    - EscapeTheLab.Interaction.DoorController
+    - EscapeTheLab.Interaction.HidingSpot
+    - EscapeTheLab.Interaction.ItemPickup
+    - EscapeTheLab.Interaction.KeycardPickup
+    - EscapeTheLab.Interaction.PlayerInteraction
+    - EscapeTheLab.Player.CameraTension
+    - EscapeTheLab.Player.FirstPersonMovement
+    - EscapeTheLab.Player.FlashlightController
+    - EscapeTheLab.Player.MouseLook
+    - EscapeTheLab.Systems.InventoryManager
+    - EscapeTheLab.Systems.LockdownCycleManager
+    - EscapeTheLab.Systems.NoiseManager
+    - EscapeTheLab.Systems.PowerGridManager
+    - EscapeTheLab.UI.HUDController
+    - EscapeTheLab.UI.MainMenuController
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+  serializedClasses:
+    Assembly-CSharp:
+    - EscapeTheLab.Systems.InventoryItem
+    UnityEngine.CoreModule:
+    - UnityEngine.Color
+    - UnityEngine.LayerMask
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/_Project/Scenes/LaboratoryLevel.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 0be9b8a67cba887498be426b94eb6d4d, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 7f717cd4d446ff744a9af3157dcd90ab, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 898ad7861328b2d4fa5a75a281c375c5, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: f96469ae7f36ac3469183626d80ad951, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: d9f6d1bbe1faa9b45a79799fdb5b4e0e, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 384b9ca229da62e4d86c59492df6dd96, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 8f0ff484bc94ce24ab492efea8300bad, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ba0937cbc37495d4aba5bda44a26c534, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 9b6595d8162e4104890bebc5367e70ce, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: cd89d9f10df9a53499d6789817c3e506, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 8e43b6d183327534f85fb06678662f5e, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 610b5d34a2557bb449953c166449b8d6, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: dba362e51a29f7946bec94b3fdb4d68c, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 29e7e6b59fe83504e997f51509a0c102, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ed2afa6202bbc4340b7bab201057be20, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ab65fdccd46a6b741a1e53662ae259ba, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 9c8e3abad4f2d3744932e156fb50e835, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: cd8513ecb0ae5ab408e0dd2ada6a53ad, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ec1b40f23b1da9243a6843eff1eb8340, type: 3}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 238
+      Script: {instanceID: 0}
+    Assets/_Project/Scenes/LaboratoryLevel2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 0be9b8a67cba887498be426b94eb6d4d, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 523ad41ffce0ea44ba98f09c2711eaa4, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 898ad7861328b2d4fa5a75a281c375c5, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: a9374d6e7568f1a40b21eb75fa60b9d7, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: fd82315312f5f9649b0034d18233583e, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 8ebfdf7a52cb72f4080d411b19032d33, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: f96469ae7f36ac3469183626d80ad951, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 9690dc4381af56f4cacd26f7fcde71f1, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: d9f6d1bbe1faa9b45a79799fdb5b4e0e, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 384b9ca229da62e4d86c59492df6dd96, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 8f0ff484bc94ce24ab492efea8300bad, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ba0937cbc37495d4aba5bda44a26c534, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: cd89d9f10df9a53499d6789817c3e506, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 610b5d34a2557bb449953c166449b8d6, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: dba362e51a29f7946bec94b3fdb4d68c, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 29e7e6b59fe83504e997f51509a0c102, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ed2afa6202bbc4340b7bab201057be20, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ab65fdccd46a6b741a1e53662ae259ba, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 9c8e3abad4f2d3744932e156fb50e835, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: cd8513ecb0ae5ab408e0dd2ada6a53ad, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: ec1b40f23b1da9243a6843eff1eb8340, type: 3}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/_Project/Scenes/MainMenu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {fileID: 11500000, guid: f96469ae7f36ac3469183626d80ad951, type: 3}
+    - Class: 114
+      Script: {fileID: 11500000, guid: 108783c6962805b449c91f446c689dda, type: 3}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 3e1ee8566044d20fed066ddbe263149b
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Environment
+    className: SeatedApparition
+  - hash:
+      serializedVersion: 2
+      Hash: 046519904c079f2db4b03455eba6a711
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Core
+    className: ExitTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 41e8bc68734ae72dadfad5b3254c09ed
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Environment
+    className: FlickeringLight
+  - hash:
+      serializedVersion: 2
+      Hash: 6710e5b11e9519b92c5cc4ed7035ee4e
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.AI
+    className: SubjectProceduralAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 3107b85ce61aa29cd145caf8099799b2
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Player
+    className: MouseLook
+  - hash:
+      serializedVersion: 2
+      Hash: c5c1a338d552b14514ce6ab5f0fe7df8
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: InventoryManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1c2f92bcc7e2816ea1123a13f46a73ce
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: CircuitBreakerConsole
+  - hash:
+      serializedVersion: 2
+      Hash: 80f853c5740ae0d7da9918712364dfd2
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.AI
+    className: MonsterController
+  - hash:
+      serializedVersion: 2
+      Hash: 2dd6dc8ce46176e4191222938e0bf03a
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Environment
+    className: ElectricalSparkHazard
+  - hash:
+      serializedVersion: 2
+      Hash: d8a7e03d16e8c32df19c48a8861a9979
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.UI
+    className: HUDController
+  - hash:
+      serializedVersion: 2
+      Hash: e7e938e32dc0f43f89f72af4d079c382
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: DoorController
+  - hash:
+      serializedVersion: 2
+      Hash: 0849d09d800da3247fe112e7c170f017
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: PowerGridManager
+  - hash:
+      serializedVersion: 2
+      Hash: 10d01bc57e239a39648f38341095ccdd
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: ItemPickup
+  - hash:
+      serializedVersion: 2
+      Hash: def6aae6e237845e0836d18011e1d3bb
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Player
+    className: FlashlightController
+  - hash:
+      serializedVersion: 2
+      Hash: 975e51495895b0a249a2488c75959083
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: PlayerInteraction
+  - hash:
+      serializedVersion: 2
+      Hash: 50e98e81940c1981ec41b6964996cb57
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: DroppedItemDistraction
+  - hash:
+      serializedVersion: 2
+      Hash: 9940f924ea4f22df010b4388810d2aa9
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: NoiseManager
+  - hash:
+      serializedVersion: 2
+      Hash: a59d5d9528420cb80d9ea0ef76706b75
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: EscapeRoomRandomizer
+  - hash:
+      serializedVersion: 2
+      Hash: d822026d95907f237e4c9a13fa97802d
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Core
+    className: LevelProgressionGuard
+  - hash:
+      serializedVersion: 2
+      Hash: 99054d79d4ae06f4f3ddf7c80e907511
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Systems
+    className: LockdownCycleManager
+  - hash:
+      serializedVersion: 2
+      Hash: 604cd2735baac52c0710f20fdf82f9c6
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Player
+    className: FirstPersonMovement
+  - hash:
+      serializedVersion: 2
+      Hash: a0bb4f20b08a0e8870dfeb8908d19551
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Player
+    className: CameraTension
+  - hash:
+      serializedVersion: 2
+      Hash: 6848697902ea469f753a1f44f754cb1d
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Environment
+    className: LightFlicker
+  - hash:
+      serializedVersion: 2
+      Hash: 2e627d6c5de18b0cc11edd9071fd9068
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Audio
+    className: HorrorAudioManager
+  - hash:
+      serializedVersion: 2
+      Hash: 92e696858c695bfb206c85da1e22d34b
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Environment
+    className: FloorHazard
+  - hash:
+      serializedVersion: 2
+      Hash: 31e4de342011d0866fb79047f7b9e53c
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.UI
+    className: MainMenuController
+  - hash:
+      serializedVersion: 2
+      Hash: c70f816d439d50475632ad53202db2ff
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: KeycardPickup
+  - hash:
+      serializedVersion: 2
+      Hash: 811f5d130d2da9ce017bad6884dda6d5
+    assemblyName: Assembly-CSharp
+    namespaceName: EscapeTheLab.Interaction
+    className: HidingSpot
+  platform: 19
+  scenePathNames:
+  - Assets/_Project/Scenes/MainMenu.unity
+  - Assets/_Project/Scenes/LaboratoryLevel.unity
+  - Assets/_Project/Scenes/LaboratoryLevel2.unity
+  nativeClasses: 000000003000000012000000820000001c0000001b000000150000000600000031000000730000000900000081000000d50000000d000000c0a219270b000000370000007e0000000f1baa530a05df37130000007bce860a8d0000002f000000740000005e0000002c0100009300000005000000620000001e0000004e00000004000000010000002b000000c4000000170000001400000019000000210000006c00000002000000720000005900000038000000410000009d00000003000000080000006800000051000000b4000000ee000000c3000000880000008f000000870000005200000040000000i
+  playerPath: C:/Users/kanak/Desktop/team ApeX project/Build/EscapeTheAbandonedLab.exe

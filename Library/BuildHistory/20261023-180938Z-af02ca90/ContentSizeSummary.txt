@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                      5
+Resource file count                        3
+Object count                             745
+Serialized Files                     305.0 kb	   5.6%
+Serialized Files Headers              26.0 kb	   0.5%
+Resource data (Texture,Audio...)       5.0 mb	  94.4%
+Total build size                       5.3 mb
+
+Largest Types:
+     4.5 mb	  85.1% Texture2D
+   512.2 kb	   9.4% Cubemap
+   184.0 kb	   3.4% Shader
+
+Largest Assets:
+   697.8 kb	  12.8% Resources/unity_builtin_extra
+   341.5 kb	   6.2% Assets/_Project/Textures/T_Lab_Metal_Panel_Albedo.png
+   341.5 kb	   6.2% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Albedo.png
+   341.5 kb	   6.2% Assets/_Project/Textures/T_Lab_Concrete_Albedo.png
+   341.5 kb	   6.2% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Normal.png
+   341.5 kb	   6.2% Assets/_Project/Textures/T_Lab_Metal_Panel_Normal.png
+    85.5 kb	   1.6% Assets/_Project/Textures/T_Monster_Skin_Albedo.png
+    85.5 kb	   1.6% Assets/_Project/Textures/T_Lab_Hazard_Stripes.png
+    55.4 kb	   1.0% Assets/_Project/Scenes/LaboratoryLevel.unity
+-------------------------------------------------------------------------------

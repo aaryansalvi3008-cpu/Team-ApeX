@@ -1,0 +1,9 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="EscapeTheLab.Systems.InventoryItem" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Color" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.LayerMask" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Serialized File count                     11
+Resource file count                        7
+Object count                            6044
+Serialized Files                       1.1 mb	  12.6%
+Serialized Files Headers             201.5 kb	   2.3%
+Resource data (Texture,Audio...)       7.5 mb	  87.4%
+Total build size                       8.6 mb
+
+Largest Types:
+     5.8 mb	  67.2% Texture2D
+     1.4 mb	  16.5% Mesh
+   512.2 kb	   5.8% Cubemap
+   184.0 kb	   2.1% Shader
+   168.6 kb	   1.9% MeshRenderer
+   105.6 kb	   1.2% Transform
+
+Largest Assets:
+   697.8 kb	   7.9% Resources/unity_builtin_extra
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Stone_Gothic_Wall_Albedo.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Lab_Metal_Panel_Albedo.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Albedo.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Lab_Concrete_Albedo.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Lab_Tiles_Dirty_Normal.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Lab_Metal_Panel_Normal.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Timber_Planks_Albedo.png
+   341.5 kb	   3.9% Assets/_Project/Textures/T_Roof_Slate_Albedo.png
+   324.7 kb	   3.7% Assets/_Project/Scenes/Level4_CursedEstate.unity
+   170.8 kb	   1.9% Assets/_Project/Textures/T_Ground_Forest_Mud_Albedo.png
+   151.8 kb	   1.7% Assets/_Project/Scenes/Level2_HauntedManor.unity
+   144.9 kb	   1.6% Assets/_Project/Scenes/Level1_AbandonedHouse.unity
+-------------------------------------------------------------------------------

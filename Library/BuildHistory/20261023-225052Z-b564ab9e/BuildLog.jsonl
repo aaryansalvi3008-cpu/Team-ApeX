@@ -1,0 +1,28 @@
+{"timestamp":"2026-10-23T22:50:52.809245200Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Call internal build started callbacks\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:52.811674100Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Call internal build started callbacks\",\"depth\":1,\"durationTicks\":34048}"}
+{"timestamp":"2026-10-23T22:50:52.883678900Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Preprocess Player\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:52.917062400Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Preprocess Player\",\"depth\":1,\"durationTicks\":333917}"}
+{"timestamp":"2026-10-23T22:50:52.917077500Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Save scenes before build\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:52.917319500Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Save scenes before build\",\"depth\":1,\"durationTicks\":2443}"}
+{"timestamp":"2026-10-23T22:50:52.977042600Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Prepare For Build\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:52.996951200Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Prepare For Build\",\"depth\":1,\"durationTicks\":199277}"}
+{"timestamp":"2026-10-23T22:50:52.997198700Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"ProducePlayerScriptAssemblies\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:53.940104300Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Prebuild Cleanup and Recompile\",\"depth\":2}"}
+{"timestamp":"2026-10-23T22:50:53.975715700Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Compile scripts\",\"depth\":3}"}
+{"timestamp":"2026-10-23T22:50:59.280280200Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Compile scripts\",\"depth\":3,\"durationTicks\":53045567}"}
+{"timestamp":"2026-10-23T22:50:59.280301700Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Generate and validate platform script types\",\"depth\":3}"}
+{"timestamp":"2026-10-23T22:50:59.290556600Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Generate and validate platform script types\",\"depth\":3,\"durationTicks\":102301}"}
+{"timestamp":"2026-10-23T22:50:59.290566100Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Prebuild Cleanup and Recompile\",\"depth\":2,\"durationTicks\":53505025}"}
+{"timestamp":"2026-10-23T22:50:59.290824300Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"ProducePlayerScriptAssemblies\",\"depth\":1,\"durationTicks\":62936384}"}
+{"timestamp":"2026-10-23T22:50:59.290852100Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Verify Build setup\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:59.312835400Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"GetUnityAssemblies\",\"depth\":2}"}
+{"timestamp":"2026-10-23T22:50:59.442502000Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"GetUnityAssemblies\",\"depth\":2,\"durationTicks\":1296708}"}
+{"timestamp":"2026-10-23T22:50:59.442524800Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"GetPlayerAssemblies\",\"depth\":2}"}
+{"timestamp":"2026-10-23T22:50:59.453732400Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"GetPlayerAssemblies\",\"depth\":2,\"durationTicks\":111960}"}
+{"timestamp":"2026-10-23T22:50:59.453961900Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Check old data build\",\"depth\":2}"}
+{"timestamp":"2026-10-23T22:50:59.475453600Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Check old data build\",\"depth\":2,\"durationTicks\":214880}"}
+{"timestamp":"2026-10-23T22:50:59.476542600Z","thread_id":"19332","log_level":"Error","message":"'Assets/_Project/Scenes/Level3_AbandonedHospital.unity' is an incorrect path for a scene file. BuildPlayer expects paths relative to the project folder."}
+{"timestamp":"2026-10-23T22:50:59.477235500Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Verify Build setup\",\"depth\":1,\"durationTicks\":1863737}"}
+{"timestamp":"2026-10-23T22:50:59.540881000Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Call Post-Process callbacks\",\"depth\":1}"}
+{"timestamp":"2026-10-23T22:50:59.541717900Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Call Post-Process callbacks\",\"depth\":1,\"durationTicks\":8536}"}
+{"timestamp":"2026-10-23T22:50:59.541728400Z","thread_id":"19332","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Build player\",\"depth\":0,\"durationTicks\":68469860}"}

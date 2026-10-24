@@ -1,0 +1,9 @@
+[2026-10-24T04:30:46.879Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 45400 --ipc-path Unity-Upm-45400 -l 2 --log-file 'C:\\Users\\kanak\\Desktop\\team ApeX project/Logs/upm.log'
+[2026-10-24T04:30:47.096Z][INFO] IPC server started (IPC path=Unity-Upm-45400).
+[2026-10-24T04:30:47.097Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-45400.
+[2026-10-24T04:30:52.255Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-24T04:30:52.628Z][INFO] project:list-packages --> 200 (372 ms)
+[2026-10-24T04:31:05.544Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-10-24T04:31:05.835Z][INFO] project:list-packages --> 200 (291 ms)
